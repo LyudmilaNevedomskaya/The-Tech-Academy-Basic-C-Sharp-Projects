@@ -1,0 +1,7 @@
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome_to_Acme_Accounting\Welcome_to_Acme_Accounting\bin\Debug\Welcome_to_Acme_Accounting.exe.config
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome_to_Acme_Accounting\Welcome_to_Acme_Accounting\bin\Debug\Welcome_to_Acme_Accounting.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome_to_Acme_Accounting\Welcome_to_Acme_Accounting\bin\Debug\Welcome_to_Acme_Accounting.pdb
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome_to_Acme_Accounting\Welcome_to_Acme_Accounting\obj\Debug\Welcome_to_Acme_Accounting.csproj.AssemblyReference.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome_to_Acme_Accounting\Welcome_to_Acme_Accounting\obj\Debug\Welcome_to_Acme_Accounting.csproj.CoreCompileInputs.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome_to_Acme_Accounting\Welcome_to_Acme_Accounting\obj\Debug\Welcome_to_Acme_Accounting.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome_to_Acme_Accounting\Welcome_to_Acme_Accounting\obj\Debug\Welcome_to_Acme_Accounting.pdb
