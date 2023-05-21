@@ -1,0 +1,7 @@
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\UsingMathOperations\UsingMathOperations\bin\Debug\UsingMathOperations.exe.config
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\UsingMathOperations\UsingMathOperations\bin\Debug\UsingMathOperations.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\UsingMathOperations\UsingMathOperations\bin\Debug\UsingMathOperations.pdb
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\UsingMathOperations\UsingMathOperations\obj\Debug\UsingMathOperations.csproj.AssemblyReference.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\UsingMathOperations\UsingMathOperations\obj\Debug\UsingMathOperations.csproj.CoreCompileInputs.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\UsingMathOperations\UsingMathOperations\obj\Debug\UsingMathOperations.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\UsingMathOperations\UsingMathOperations\obj\Debug\UsingMathOperations.pdb
