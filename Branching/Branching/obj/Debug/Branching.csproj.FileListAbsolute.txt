@@ -1,0 +1,7 @@
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.exe.config
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.pdb
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.pdb
