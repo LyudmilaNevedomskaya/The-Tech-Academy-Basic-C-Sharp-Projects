@@ -1,0 +1,7 @@
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe.config
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.pdb
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.AssemblyReference.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.pdb
