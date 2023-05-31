@@ -1,0 +1,7 @@
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchStringAndInteger\TryCatchStringAndInteger\bin\Debug\TryCatchStringAndInteger.exe.config
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchStringAndInteger\TryCatchStringAndInteger\bin\Debug\TryCatchStringAndInteger.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchStringAndInteger\TryCatchStringAndInteger\bin\Debug\TryCatchStringAndInteger.pdb
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchStringAndInteger\TryCatchStringAndInteger\obj\Debug\TryCatchStringAndInteger.csproj.AssemblyReference.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchStringAndInteger\TryCatchStringAndInteger\obj\Debug\TryCatchStringAndInteger.csproj.CoreCompileInputs.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchStringAndInteger\TryCatchStringAndInteger\obj\Debug\TryCatchStringAndInteger.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchStringAndInteger\TryCatchStringAndInteger\obj\Debug\TryCatchStringAndInteger.pdb
