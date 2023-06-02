@@ -36,5 +36,14 @@ namespace TwentyOneGame
             deck.Cards = TempList;
             return deck;
         }
+
+        public static Deck Shuffle(Deck deck, int times)
+        {
+            for (int i =0; i < times; i++)
+            {
+                deck = Shuffle(deck);
+            }
+            return deck;
+        }
     }
 }
