@@ -16,6 +16,7 @@ namespace TwentyOneGame
             //game.Play();
             //Console.ReadLine();
 
+            Game game = new TwentyOneGame();
 
             Deck deck = new Deck();
             deck.Shuffle(3);
