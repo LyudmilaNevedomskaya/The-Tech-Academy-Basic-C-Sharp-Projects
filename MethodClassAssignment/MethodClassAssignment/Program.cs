@@ -14,15 +14,12 @@ namespace MethodClassAssignment
             MathOperation mathOp = new MathOperation();
 
             // Call the method in the class, passing in two numbers
-            int result = mathOp.MathOperation1(5, 10);
-            Console.WriteLine(result);
+            mathOp.MathOperation1(5, 10);
 
             // Call the method in the class, specifying the parameters by name
             int num1 = 10;
             int num2 = 20;
-            result = mathOp.MathOperation1(num1, num2);
-            Console.WriteLine(result);
-
+            mathOp.MathOperation1(num1, num2);
 
             Console.ReadLine();
         }

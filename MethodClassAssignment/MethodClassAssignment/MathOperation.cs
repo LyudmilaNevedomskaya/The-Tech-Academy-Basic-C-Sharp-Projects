@@ -10,10 +10,10 @@ namespace MethodClassAssignment
     {
         // Create a void method that takes two integers as parameters.
         // Have the method do a math operation on the first integer and display the second integer to the screen
-        public int MathOperation1 (int num1, int num2)
+        public void MathOperation1 (int num1, int num2)
         {
             int doMath = num1 * 10;
-            return num2;
+            Console.WriteLine(num2);
         }
     }
 }
