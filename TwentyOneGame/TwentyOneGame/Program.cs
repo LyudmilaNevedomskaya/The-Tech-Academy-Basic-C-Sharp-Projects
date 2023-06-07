@@ -16,11 +16,11 @@ namespace TwentyOneGame
             //game.Play();
             //Console.ReadLine();
 
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Mila";
-            game = game + player;
+            //Game game = new TwentyOneGame();
+            //game.Players = new List<Player>();
+            //Player player = new Player();
+            //player.Name = "Mila";
+            //game = game + player;
 
             Deck deck = new Deck();
             deck.Shuffle(3);
