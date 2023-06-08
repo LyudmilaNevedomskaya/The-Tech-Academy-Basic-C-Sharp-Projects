@@ -1,0 +1,7 @@
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe.config
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\StructAssignment.pdb
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.AssemblyReference.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\StructAssignment.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\StructAssignment.pdb
