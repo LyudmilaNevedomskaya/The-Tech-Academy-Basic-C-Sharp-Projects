@@ -23,13 +23,19 @@ namespace TwentyOneGame
             //game = game + player;
 
             Deck deck = new Deck();
-            deck.Shuffle(3);
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
+            ////// Lambda Expressions ///////////////////////////
+            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
+            //Console.WriteLine(count);
+            //////////////////////////////////////////////////////
+
+            //deck.Shuffle(3);
+
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
         
