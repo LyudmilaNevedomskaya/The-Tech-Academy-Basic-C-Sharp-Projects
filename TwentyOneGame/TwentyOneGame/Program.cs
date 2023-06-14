@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
-using Casino;
-using Casino.TwentyOneGame;
+using Cassino;
+using Cassino.TwentyOneGame;
 
 namespace TwentyOne
 {

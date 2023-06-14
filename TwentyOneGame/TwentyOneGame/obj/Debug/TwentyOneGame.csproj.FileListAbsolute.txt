@@ -5,6 +5,6 @@ C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.CoreCompileInputs.cache
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.exe
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.pdb
-C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\Casino.dll
-C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\Casino.pdb
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.CopyComplete
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\Cassino.dll
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\Cassino.pdb
