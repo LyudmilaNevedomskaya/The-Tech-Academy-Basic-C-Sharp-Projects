@@ -22,6 +22,8 @@ namespace TwentyOne
             //string text1 = File.ReadAllText(@"C:\Users\milo4\Logs\log.txt");
             const string casinoName = "Grand Hotel and Casino";
 
+            Guid identifier = Guid.NewGuid();
+
             Console.WriteLine("Welcome to the {0}. Let's start by telling me your name!", casinoName);
             string playerName = Console.ReadLine();
             Console.WriteLine("How much money did you bring today?");
@@ -31,6 +33,7 @@ namespace TwentyOne
             if (answer == "yes" || answer =="yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
                 Game game = new TwentyOneGame();
                 game += player;
                 player.IsActivePlaying = true;
