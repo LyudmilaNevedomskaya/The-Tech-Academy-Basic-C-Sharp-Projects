@@ -3,25 +3,26 @@ using System.IO;
 using Casino;
 using Casino.TwentyOneGame;
 
-namespace TwentyOneGame
+namespace TwentyOne
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // DateTime
-            DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
+            //// DateTime
+            //DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
 
-            DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
-            TimeSpan ageGraduation = yearOfGraduation - yearOfBirth;
-            // write text from program into a .txt file
-            string text = "Here is some text";
-            File.WriteAllText(@"C:\Users\milo4\Logs\log.txt", text);
+            //DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
+            //TimeSpan ageGraduation = yearOfGraduation - yearOfBirth;
+            //// write text from program into a .txt file
+            //string text = "Here is some text";
+            //File.WriteAllText(@"C:\Users\milo4\Logs\log.txt", text);
 
-            // read some text from .txt file
-            string text1 = File.ReadAllText(@"C:\Users\milo4\Logs\log.txt");
+            //// read some text from .txt file
+            //string text1 = File.ReadAllText(@"C:\Users\milo4\Logs\log.txt");
+            const string casinoName = "Grand Hotel and Casino";
 
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name!");
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name!", casinoName);
             string playerName = Console.ReadLine();
             Console.WriteLine("How much money did you bring today?");
             int bank = Convert.ToInt32(Console.ReadLine());

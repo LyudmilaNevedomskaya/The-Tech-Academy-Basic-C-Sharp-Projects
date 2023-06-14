@@ -1,9 +1,9 @@
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Casino\bin\Debug\netcoreapp3.1\Casino.dll
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
-C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Casino\obj\Debug\netcoreapp3.1\Casino.dll
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache
