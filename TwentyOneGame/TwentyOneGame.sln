@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.33529.622
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyOneGame", "TwentyOneGame\TwentyOneGame.csproj", "{70598079-4E04-4A13-BB54-C96D2366E8C8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casino", "Casino\Casino.csproj", "{925F3211-34D5-479D-AAE5-205928CEE7E1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cassino", "Cassino\Cassino.csproj", "{A3E33C9A-C9AD-4F63-BC51-4FAA1E3A10CC}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{70598079-4E04-4A13-BB54-C96D2366E8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70598079-4E04-4A13-BB54-C96D2366E8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70598079-4E04-4A13-BB54-C96D2366E8C8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{925F3211-34D5-479D-AAE5-205928CEE7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{925F3211-34D5-479D-AAE5-205928CEE7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{925F3211-34D5-479D-AAE5-205928CEE7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{925F3211-34D5-479D-AAE5-205928CEE7E1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A3E33C9A-C9AD-4F63-BC51-4FAA1E3A10CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A3E33C9A-C9AD-4F63-BC51-4FAA1E3A10CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3E33C9A-C9AD-4F63-BC51-4FAA1E3A10CC}.Release|Any CPU.ActiveCfg = Release|Any CPU

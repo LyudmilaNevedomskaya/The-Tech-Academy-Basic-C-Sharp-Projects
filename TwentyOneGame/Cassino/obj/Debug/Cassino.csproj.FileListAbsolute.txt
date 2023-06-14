@@ -1,6 +1,5 @@
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Cassino\bin\Debug\Cassino.dll
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Cassino\bin\Debug\Cassino.pdb
-C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Cassino\obj\Debug\Cassino.csproj.AssemblyReference.cache
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Cassino\obj\Debug\Cassino.csproj.CoreCompileInputs.cache
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Cassino\obj\Debug\Cassino.dll
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Cassino\obj\Debug\Cassino.pdb
