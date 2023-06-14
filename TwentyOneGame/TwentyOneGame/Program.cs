@@ -34,6 +34,11 @@ namespace TwentyOne
             {
                 Player player = new Player(playerName, bank);
                 player.Id = Guid.NewGuid();
+                // logging player Id in .txt file
+                using (StreamWriter file = new StreamWriter(@"C:\Users\milo4\Logs\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.IsActivePlaying = true;

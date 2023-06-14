@@ -6,4 +6,3 @@ C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Casino\obj\Debug\netcoreapp3.1\Casino.dll
 C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
-C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache
