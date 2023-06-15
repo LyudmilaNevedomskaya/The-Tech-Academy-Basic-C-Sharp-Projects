@@ -1,0 +1,10 @@
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\TwentyOneGame.exe.config
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\TwentyOneGame.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\TwentyOneGame.pdb
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\Cassino.dll
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\Cassino.pdb
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.pdb
