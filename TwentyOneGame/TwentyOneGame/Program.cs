@@ -58,15 +58,17 @@ namespace TwentyOne
                     {
                         game.Play();
                     }
-                    catch (FraudException)
+                    catch (FraudException ex)
                     {
-                        Console.WriteLine("Security!!! Kick this person out!!!");
+                        Console.WriteLine(ex.Message);
+                        UpdateDbWithException(ex);
                         Console.ReadLine();
                         return;
                     }
-                    catch (Exception)
+                    catch (Exception ex)
                     {
                         Console.WriteLine("An error occured! Please contact your System Administrator!!!");
+                        UpdateDbWithException(ex);
                         Console.ReadLine();
                         return;
                     }
@@ -90,9 +92,9 @@ namespace TwentyOne
                 command.Parameters.Add("@ExceptionMessage", SqlDbType.VarChar);
                 command.Parameters.Add("@TimeStamp", SqlDbType.DateTime);
 
-                command.Parameters[@"ExceptionType"].Value = ex.GetType().ToString();
-                command.Parameters[@"ExceptionMessage"].Value = ex.Message;
-                command.Parameters[@"TimeStamp"].Value = DateTime.Now;
+                command.Parameters["@ExceptionType"].Value = ex.GetType().ToString();
+                command.Parameters["@ExceptionMessage"].Value = ex.Message;
+                command.Parameters["@TimeStamp"].Value = DateTime.Now;
 
                 connection.Open();
                 command.ExecuteNonQuery();
