@@ -1,0 +1,12 @@
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp\CodeFirstConsoleApp\bin\Debug\CodeFirstConsoleApp.exe.config
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp\CodeFirstConsoleApp\bin\Debug\CodeFirstConsoleApp.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp\CodeFirstConsoleApp\bin\Debug\CodeFirstConsoleApp.pdb
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp\CodeFirstConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp\CodeFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp\CodeFirstConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp\CodeFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.csproj.AssemblyReference.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.csproj.CopyComplete
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.exe
+C:\Users\milo4\OneDrive\Документы\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.pdb
